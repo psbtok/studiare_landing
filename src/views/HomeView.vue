@@ -54,8 +54,9 @@
         flex-direction: column;
         align-items: center;
         width: 100%;
-        min-height: calc(100vh - 56px);
+        min-height: calc(100vh - 136px);
         padding: 32px;
+        padding-top: 64px;
     }
 
     .lessonList {

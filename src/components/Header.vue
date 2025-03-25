@@ -23,6 +23,7 @@
         padding: 0 32px;
         border: 0px solid var(--stone-grey);
         border-bottom-width: 1px;
+        background-color: var(--pale-grey);
     }
 
     span {
